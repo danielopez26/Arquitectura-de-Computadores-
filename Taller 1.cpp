@@ -71,7 +71,7 @@ int fifth(int a, int b)
 int main ()
 {
     
-    int k[]={4,2,1,10,20};
+    int k[]={4,2,1,10,20}; // Para el polinomio
     
     //cout<< first(5,5)<<endl; 
     //cout<< second(5,2)<<endl;
